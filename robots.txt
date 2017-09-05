@@ -5,4 +5,4 @@ Disallow: /js/
 Disallow: /ressources/
 Disallow: /images/
 
-Sitemap: http://www.pumapi.com/sitemap.xml
+Sitemap: http://www.zzzzzzzz.com/sitemap.xml
