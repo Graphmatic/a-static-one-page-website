@@ -1,0 +1,14 @@
+// charte graphique & couleurs
+
+* LOGO:
+    - orange : #f0931d
+    - noir : #00000
+    - rouge : #e92824
+    - bleu : #405975
+    - blanc : #fffff
+    - gris : #b7b7b7
+
+* DECO
+    - bleu separation : #425975
+    - jaune slider home : #e2e30f
+    - bleu slider home : #415975
