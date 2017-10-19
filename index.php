@@ -11,7 +11,7 @@
 
 
     <!--[if lt IE 9]>
-    <script src="js/fallback.js"></script>
+    <script src="js/fb.js"></script>
     <![endif]-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="/images/ico/apple-touch-icon-57x57.png">
