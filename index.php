@@ -97,7 +97,7 @@
         <img src="/images/home/skyline.png" class="skyline">
         <div class="container big-title">
             <div class="row">
-                <h1 class="top-logo logo-title hide-mob wow scaleIn" data-wow-duration="2000ms" data-wow-delay="100ms" data-philter-blur="0">Graphmatic</h1>
+                <h1 class="top-logo logo-title hide-mob wow scaleIn" data-wow-duration="2000ms" data-wow-delay="100ms" data-philter-blur="0">YOUR COMPANY</h1>
             </div>
         </div>
         <div class="preloader"><i class="fa fa-sun-o fa-spin"></i></div>
