@@ -6,7 +6,7 @@ $datas = json_decode($input, true);
 $name       = @trim(stripslashes($datas['name']));
 $from       = @trim(stripslashes($datas['email']));
 $mess       = @trim(stripslashes($datas['mess']));
-$to   		= 'xxxxxxx@xxxxxxx.com';
+$to   		= 'florian-lacroix@protonmail.com';
 $subject    = 'prise de contact - ' . $name;
 
 
