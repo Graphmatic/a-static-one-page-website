@@ -36,7 +36,7 @@
     <meta name="theme-color" content="#ffffff">
 </head><!--/head-->
 
-<body>
+<body>/etc/nginx/.htpasswddemo
 
 <header class="header">
     <div class="burger">
@@ -78,7 +78,7 @@
 </header>
 <section id="home-slider" class="to-animate" data-philter-grayscale="0">
     <img class="graphmatic-logo top-logo hide-mob" src="images/logo_200.png" alt="logo">
-    <img src="/images/home/skyline.png" class="skyline">
+    <img src="images/home/skyline.png" class="skyline">
     <div class="container big-title">
         <div class="row">
             <h1 class="top-logo logo-title hide-mob wow scaleIn" data-wow-duration="2000ms" data-wow-delay="100ms" data-philter-blur="0">Your Company</h1>
